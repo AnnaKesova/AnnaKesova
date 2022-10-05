@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello! 👋
+
+### Меня зовут Анна. Я начинающий фронтенд-разработчик.  
+
+Мне нравится очень верстать и это увлечение перерасло в то, что я заканчиваю курсы по Веб-разработке. 
+
+🔭 I’m currently working on movies-explorer-frontend.   
+
+🌱 I’m currently learning express.js, react.js, grid.  
+
+📫 How to reach me: https://t.me/AnnaQ999    
 
 <!--
 **AnnaKesova/AnnaKesova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
