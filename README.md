@@ -4,9 +4,9 @@
 
 Мне нравится очень верстать и это увлечение перерасло в то, что я заканчиваю курсы по Веб-разработке. 
 
-🔭 I’m currently working on movies-explorer-frontend.   
+🔭 I’m currently working on online-furniture-store.   
 
-🌱 I’m currently learning express.js, react.js, grid.  
+🌱 I’m currently learning js, react.js, redux, node.js, flex, grid.  
 
 📫 How to reach me: https://t.me/AnnaQ999    
 
